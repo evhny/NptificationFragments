@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification Fragments</string>
+
+    <string name="notification">Notification\ </string>
+    <string name="you_create_notification">You create a notification</string>
+    <string name="create_new_notification">Create new \n notification</string>
+</resources>
